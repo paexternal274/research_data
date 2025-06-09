@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "Mark Zuckerberg",
+    "date_of_birth": "1984-05-14",
+    "national_id": "",
+    "phone_number": "+1-650-555-1023",
+    "email_address": "",
+    "home_address": "1 Hacker Way, Menlo Park, CA"
+  },
+  {
+    "full_name": "Elon Musk",
+    "date_of_birth": "",
+    "national_id": "SA-298734928",
+    "phone_number": "",
+    "email_address": "elon.m@xmail.com",
+    "home_address": "3500 Deer Creek Rd, Palo Alto, CA"
+  },
+  {
+    "full_name": "Taylor Swift",
+    "date_of_birth": "",
+    "national_id": "",
+    "phone_number": "+1-615-555-6672",
+    "email_address": "taylor.s@musicstream.net",
+    "home_address": "17 Cornelia Street, New York, NY"
+  },
+  {
+    "full_name": "Barack Obama",
+    "date_of_birth": "1961-08-04",
+    "national_id": "",
+    "phone_number": "",
+    "email_address": "barack.o@foundation.org",
+    "home_address": "2446 Belmont Rd NW, Washington, DC"
+  },
+  {
+    "full_name": "Kim Kardashian",
+    "date_of_birth": "",
+    "national_id": "US-993420182",
+    "phone_number": "+1-310-555-2143",
+    "email_address": "",
+    "home_address": ""
+  }
+]
