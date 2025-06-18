@@ -1,0 +1,37 @@
+1. Residential
+
+    Single-Family Home (detached house)
+
+    Apartment Building (e.g. Marina Bay Sands Residences, Singapore)
+
+    Condominium (e.g. One57, New York City)
+
+    Townhouse / Row House (e.g. Georgian townhouses in London)
+
+2. Commercial
+
+    Office Tower
+
+        Willis Tower (formerly Sears Tower), Chicago
+
+        One World Trade Center, New York City
+
+    Shopping Mall
+
+        Mall of America, Minnesota
+
+        West Edmonton Mall, Canada
+
+    Hotel & Resort
+
+        Burj Al Arab, Dubai
+
+        Marina Bay Sands, Singapore
+
+3. Industrial
+
+    Factory / Plant (e.g. Ford Motor Company Assembly Plant)
+
+    Warehouse / Distribution Center (e.g. Amazon Fulfillment Centers)
+
+    Power Station (e.g. Hoover Dam Powerplant)
